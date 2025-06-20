@@ -1,6 +1,6 @@
 [git]
-username = "arctan95"
-email = "jaeqentan@gmail.com"
+username = "arctan1024"
+email = "jaexentan@gmail.com"
 
 [omz]
 # https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
@@ -23,7 +23,7 @@ nixgc = "nix-collect-garbage --delete-old"
 ll = "ls -alh"
 
 [home.file]
-".ssh/id_ed25519.pub" = { text = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOK7ik+4zRv9ppx+7o/vPHb66NK0NtyICvM5/ogINEBO jaeqentan@gmail.com" }
+".ssh/id_ed25519.pub" = { text = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEoeZhv2ZLc+l4xsBACmRAoQFjfEx3iZtDtE/EuJNg2H jaexentan@gmail.com" }
 
 [nix]
 # https://search.nixos.org/packages
