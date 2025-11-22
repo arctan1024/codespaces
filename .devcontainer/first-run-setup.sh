@@ -23,8 +23,8 @@ version="v0.1.0"
 restore_homebrew=false
 restore_passwd=false
 enable_tunnel=false
-password_store="https://github.com/arctan95/password-store.git"
-repository="https://github.com/arctan95/codespaces.git"
+password_store="https://github.com/arctan1024/password-store.git"
+repository="https://github.com/arctan1024/codespaces.git"
 branch="master"
 flake_uri="$HOME/.codespaces"
 

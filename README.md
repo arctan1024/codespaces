@@ -34,7 +34,7 @@ Refer to [this guide](https://containers.dev/guide/dockerfile) for more details.
 
 If you don't want to use docker image, you can alternatively run the command below.
 
-`curl -sSL https://raw.githubusercontent.com/arctan95/codespaces/HEAD/.devcontainer/first-run-setup.sh | bash`
+`curl -sSL https://raw.githubusercontent.com/arctan1024/codespaces/HEAD/.devcontainer/first-run-setup.sh | bash`
 
 Refer to [Nix Manual](https://nixos.org/manual/nix/stable/) for more details.
 
